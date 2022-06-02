@@ -3,19 +3,7 @@
 </div>  
 
 
-###
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-class computer systems engineer:
-    def __init__(self):
-        self.name = "Husari"
-        self.role = "Student"
-        self.language_spoken = ["es_MX", "en_US"] 
-)
-```
-##
-
+###     ABOUT ME
 ### 
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning full stack
@@ -34,10 +22,7 @@ class computer systems engineer:
     
 ![Husari's GitHub stats](https://github-readme-stats.vercel.app/api?username=011010&show_icons=true&theme=outrun)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=011010&layout=compact&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
-<!---
-011010/011010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 <div align="center" >
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="700"/><br>
     
