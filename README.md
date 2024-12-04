@@ -5,8 +5,6 @@
 <h1 align="center">I'm Husari Orozco</h1>
 <h3 align="center">A passionate developer from Mexico</h3>
 
-<p align="center"> <a href="https://twitter.com/husari_oro" target="blank"><img src="https://img.shields.io/twitter/follow/husari_oro?logo=twitter&style=for-the-badge" alt="husari_oro" /></a> </p>
-
 - 🌱 I’m currently learning **js, java, python**
 
 - 💬 Ask me about **python, flask, vue**
